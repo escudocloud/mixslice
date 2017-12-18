@@ -1,0 +1,28 @@
+# python
+*.pyc
+*.pyo
+__pycache__
+
+# C
+*.o
+.ycm_extra_conf.py
+
+# profiling tools
+callgrind.out*
+gmon.out
+
+# binaries
+main
+main_oaep
+blackbox
+blackbox_oaep
+multithread
+multithread_oaep
+
+# temporary files
+*.dec
+*.out
+
+# dummy files
+*.dummy
+*.dummy.out
